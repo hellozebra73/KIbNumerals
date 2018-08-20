@@ -1,0 +1,8 @@
+antlr4-python3-runtime==4.5.3
+Django==2.0.5
+django-webpack-loader==0.6.0
+honcho==1.0.1
+-e git+https://github.com/jackatbancast/latex2sympy.git@e31cb4391ff25426fcc10569caa9f445d71e1798#egg=latex2sympy3
+mpmath==1.0.0
+pytz==2018.4
+sympy==1.1.1

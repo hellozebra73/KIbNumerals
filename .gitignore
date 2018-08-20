@@ -1,0 +1,6 @@
+*.pyc
+venv
+db.sqlite3
+.DS_Store
+front/webpack-stats.json
+yarn-error.log

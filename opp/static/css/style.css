@@ -1,0 +1,30 @@
+@font-face {
+	font-family: beacon;
+	src: url(../fonts/beacon.ttf);
+}
+
+@font-face {
+	font-family: myriad;
+	src: url(../fonts/myriad.ttf);
+}
+
+@font-face {
+	font-family: ail;
+	src: url(../fonts/ailerons.otf);
+}
+
+body {
+	background-image: url(../pics/background.jpg);
+	background-size: cover;
+	font-size: 16px;
+	font-family: Helvetica;
+}
+
+/*header icons*/
+#hjem {
+	background-image: url(../pics/home.svg);
+	background-size: contain;
+	min-width: 40px;
+	min-height: 40px;
+	display: inline-block;
+}

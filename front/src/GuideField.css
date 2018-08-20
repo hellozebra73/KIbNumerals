@@ -1,0 +1,11 @@
+.GuideField .buttons {
+  display: flex;
+  color: "red";
+  justify-content: space-between;
+}
+
+.GuideField .button1 {
+  display: flex;
+  color: red;
+  justify-content: space-between;
+}

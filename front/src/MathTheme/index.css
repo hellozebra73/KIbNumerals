@@ -1,0 +1,13 @@
+@import "~quill/dist/quill.snow.css";
+
+.ql-snow .ql-tooltip .ql-formula {
+  margin: 0px;
+  padding: 3px 5px;
+  min-height: 26px;
+  width: 170px;
+}
+
+.ql-snow .ql-tooltip textarea {
+  border: 1px solid #ccc;
+  font-size: 13px;
+}

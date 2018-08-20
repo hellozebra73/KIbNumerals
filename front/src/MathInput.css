@@ -1,0 +1,10 @@
+.math-input-container {
+  margin-bottom: 8px;
+}
+
+.math-input.mq-editable-field {
+  background-color: rgba(10, 10, 10, 0.1);
+  border-style: none;
+  font-size: 1.25rem;
+  outline: 0 !important;
+}
